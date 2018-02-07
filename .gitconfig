@@ -1,0 +1,13 @@
+[user]
+	email = dragosh.craciun@gmail.com
+	name = dragosh craciun
+[push]
+	default = upstream
+[color]
+	ui = auto
+[merge]
+	conflictstyle = diff3
+[core]
+	autocrtlf = true
+[credential]
+	helper = wincred
